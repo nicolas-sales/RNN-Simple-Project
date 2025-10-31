@@ -1,0 +1,15 @@
+# Virtual environments
+rnnvenv/
+venv/
+.env/
+.venv/
+
+# Model files
+*.h5
+*.hdf5
+*.keras
+*.ckpt
+*.ckpt.*
+checkpoint/
+saved_models/
+models/
